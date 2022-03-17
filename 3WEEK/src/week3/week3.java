@@ -6,8 +6,8 @@ public class week3 {
 
 	public static void main(String[] args) {
 	
-		String strVar1 = "½Å¹ÎÃ¶1";
-		String strVar2 = "½Å¹ÎÃ¶1";
+		String strVar1 = "½Å¹ÎÃ¶0";
+		String strVar2 = "½Å¹ÎÃ¶0";
 		
 		if(strVar1 == strVar2) {
 			System.out.println("strVar°ú strVar2´Â ÂüÁ¶°¡ °°À½");
