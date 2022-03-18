@@ -2,7 +2,7 @@ package week3;
 
 import javax.sql.rowset.serial.SQLOutputImpl;
 
-public class week3 {
+public class String_literral {
 
 	public static void main(String[] args) {
 	
